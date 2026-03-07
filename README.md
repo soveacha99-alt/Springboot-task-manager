@@ -11,11 +11,11 @@ It allows users to create tasks, view all tasks, and delete tasks.
 
 ## Technologies Used
 - Java
-- Spring Boot
-- Spring Data JPA
-- H2 Database
-- Gradle
-- GitHub
+Spring Boot
+Spring Data JPA
+H2 Database
+Gradle
+GitHub
 
 ## API Endpoints
 GET /tasks  
