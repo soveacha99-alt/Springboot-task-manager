@@ -1,4 +1,5 @@
 Project created for Spring Boot Full Stack app.
+Add project README documentation
 
 # Spring Boot Task Manager API
 
