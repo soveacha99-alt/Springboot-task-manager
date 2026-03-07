@@ -23,7 +23,7 @@ POST /tasks
 DELETE /tasks/{id}
 
 ## Run Locally
-1. Open the project in IntelliJ IDEA
+Open the project in IntelliJ IDEA
 Run `HelloWorldWebAppApplication`
 Use this link "http://localhost:8080/" to open spring boot in any browsers.
 
