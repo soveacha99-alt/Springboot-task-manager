@@ -34,4 +34,4 @@ Steps:
 Push the project to GitHub
    Go to railway.app
 Login with GitHub
-   Deploy the repository
+Deploy the repository
