@@ -31,7 +31,7 @@ DELETE /tasks/{id}
 This project can be deployed using Railway.
 
 Steps:
-1. Push the project to GitHub
+Push the project to GitHub
    Go to railway.app
 Login with GitHub
    Deploy the repository
