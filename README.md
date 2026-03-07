@@ -3,6 +3,7 @@ Add project README documentation
 Add project overview
 Add database description
 Improve README formatting
+Update API documentation
 
 # Spring Boot Task Manager API
 
