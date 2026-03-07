@@ -32,6 +32,6 @@ This project can be deployed using Railway.
 
 Steps:
 Push the project to GitHub
-   Go to railway.app
+Go to railway.app
 Login with GitHub
 Deploy the repository
