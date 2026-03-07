@@ -2,6 +2,7 @@ Project created for Spring Boot Full Stack app.
 Add project README documentation
 Add project overview
 Add database description
+Improve README formatting
 
 # Spring Boot Task Manager API
 
