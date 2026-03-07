@@ -1,7 +1,8 @@
+## Project Overview
+
 This project is a simple Task Manager REST API built using Spring Boot.  
 Project created for Spring Boot Full Stack app.
 Add project README documentation
-Add project overview
 Add database description
 Improve README formatting
 Update API documentation
