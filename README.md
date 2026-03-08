@@ -35,3 +35,9 @@ Push the project to GitHub
 Go to railway.app
 Login with GitHub
 Deploy the repository
+
+## Database Structure
+
+This application uses a simple database table to store tasks.
+
+![Database Structure](database-structure.png)
