@@ -44,7 +44,8 @@ Commit and push in Intelij IDEA
 ## Database Structure
 This application uses a simple database table to store tasks.
 
-<img width="1536" height="1024" alt="Task table structure diagram" src="https://github.com/user-attachments/assets/d9c5ffdd-a92f-4eba-9f76-f2608ea7e822" />
+<img width="379" height="383" alt="Task Manager" src="https://github.com/user-attachments/assets/758c84de-9e67-4846-8701-f5a9b8f77358" />
+
 
 Short video demonstration
 
