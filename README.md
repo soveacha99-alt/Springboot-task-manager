@@ -38,10 +38,11 @@ Steps:
 Push the project to GitHub
 Go to railway.app
 Login with GitHub
-Deploy the repository
+Deploy the repository                                      
 Commit and push in Intelij IDEA
 
 ## Database Structure
+<img width="1536" height="1024" alt="Task table structure diagram" src="https://github.com/user-attachments/assets/d9c5ffdd-a92f-4eba-9f76-f2608ea7e822" />
 
 This application uses a simple database table to store tasks.
 
