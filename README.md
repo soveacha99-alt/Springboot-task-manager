@@ -46,5 +46,9 @@ This application uses a simple database table to store tasks.
 
 <img width="1536" height="1024" alt="Task table structure diagram" src="https://github.com/user-attachments/assets/d9c5ffdd-a92f-4eba-9f76-f2608ea7e822" />
 
+Short video demonstration
+
+https://github.com/user-attachments/assets/47149a55-bf12-48fc-a31b-198d0d57f92a
+
 
 
