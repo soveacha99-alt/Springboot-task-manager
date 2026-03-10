@@ -30,11 +30,16 @@ Use this link "http://localhost:8080/" to open spring boot in any browsers.
 ## Deployment
 This project can be deployed using Railway.
 
+Live Application:
+https://springboot-task-manager-production-875c.up.railway.app
+
+
 Steps:
 Push the project to GitHub
 Go to railway.app
 Login with GitHub
 Deploy the repository
+Commit and push in Intelij IDEA
 
 ## Database Structure
 
