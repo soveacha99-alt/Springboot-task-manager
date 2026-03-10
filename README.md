@@ -11,6 +11,8 @@ It allows users to create tasks, view all tasks, and delete tasks.
 
 ## Technologies Used
 - Java
+- HTML
+- JavaScript
 Spring Boot
 Spring Data JPA
 H2 Database
